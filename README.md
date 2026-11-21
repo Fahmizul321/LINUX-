@@ -57,4 +57,5 @@ Pembuatan ISO berhasil dan hasil salinan ISO diverifikasi identik. Berjalannya s
 
 ## Catatan lisensi
 
-Linux Pelajar Edition adalah karya remastering berbasis Kubuntu/Ubuntu dengan komponen dari berbagai proyek. Masing-masing komponen sumber tetap mengikuti lisensinya. Lisensi gambar asli perlu dikonfirmasi sebelum redistribusi lebih luas.
+Linux Pelajar Edition adalah karya remastering berbasis Kubuntu/Ubuntu dengan komponen dari berbagai proyek. Masing-masing komponen sumber tetap mengikuti lisensinya. Lisensi gambar asli adalah hasil generate ai dan hasil kerja kelompok tim
+
